@@ -1,0 +1,123 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 1100">
+  <!-- Definizione pattern e gradienti -->
+  <defs>
+    <!-- Gradiente oro per decorazioni -->
+    <linearGradient id="goldGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#FFD700;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#FFF7C2;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#FFD700;stop-opacity:1" />
+    </linearGradient>
+
+    <!-- Pattern pietra per lo sfondo -->
+    <pattern id="stonePattern" x="0" y="0" width="20" height="20" patternUnits="userSpaceOnUse">
+      <rect width="20" height="20" fill="#695347"/>
+      <path d="M0 0h20v20H0z" fill="#5A4438" fill-opacity="0.3"/>
+      <path d="M0 10h20M10 0v20" stroke="#614B3E" stroke-width="0.5"/>
+    </pattern>
+
+    <!-- Frame ornato del pulsante -->
+    <g id="fancyButtonFrame">
+      <!-- Sfondo base -->
+      <rect x="10" y="5" width="280" height="50" fill="#2A1810" rx="8"/>
+      <rect x="12" y="7" width="276" height="46" fill="url(#stonePattern)" rx="7"/>
+      
+      <!-- Bordi decorativi -->
+      <path d="M15 10 h270 M15 47 h270" stroke="url(#goldGradient)" stroke-width="2"/>
+      
+      <!-- Angoli ornamentali -->
+      <path d="M15 10 l5,-5 h10 l-5,5" fill="url(#goldGradient)"/>
+      <path d="M285 10 l-5,-5 h-10 l5,5" fill="url(#goldGradient)"/>
+      <path d="M15 47 l5,5 h10 l-5,-5" fill="url(#goldGradient)"/>
+      <path d="M285 47 l-5,5 h-10 l5,-5" fill="url(#goldGradient)"/>
+    </g>
+
+    <!-- Torre elaborata -->
+    <g id="fancyTower">
+      <!-- Base torre -->
+      <path d="M25,15 h30 l5,5 h-40 l5,-5" fill="url(#goldGradient)"/>
+      <path d="M23,20 h34 v25 h-34 v-25" fill="#8B7355"/>
+      
+      <!-- Dettagli architettonici -->
+      <rect x="27" y="22" width="4" height="8" fill="#ADD8E6" rx="1"/>
+      <rect x="38" y="22" width="4" height="8" fill="#ADD8E6" rx="1"/>
+      <rect x="49" y="22" width="4" height="8" fill="#ADD8E6" rx="1"/>
+      
+      <!-- Merli -->
+      <path d="M23,20 v-3 h4 v3 h4 v-3 h4 v3 h4 v-3 h4 v3 h4 v-3 h4 v3" fill="#A89070"/>
+      
+      <!-- Bandiera -->
+      <path d="M35,12 v-5 l4,2 l-4,2" fill="#FF0000"/>
+      <line x1="35" y1="7" x2="35" y2="12" stroke="#8B7355" stroke-width="0.5"/>
+    </g>
+  </defs>
+
+  <!-- Torre 0 - Tutorial -->
+  <use href="#fancyButtonFrame" y="0"/>
+  <use href="#fancyTower" y="0"/>
+  <text x="85" y="35" fill="white" font-family="Arial" font-size="16" font-weight="bold">Tutorial Tower</text>
+  <circle cx="265" cy="30" r="12" fill="#2A1810" stroke="url(#goldGradient)" stroke-width="2"/>
+  <text x="265" y="35" fill="url(#goldGradient)" font-size="16" text-anchor="middle">0</text>
+
+  <!-- Torre 1 - Apprendista -->
+  <use href="#fancyButtonFrame" y="100"/>
+  <use href="#fancyTower" y="100"/>
+  <text x="85" y="135" fill="white" font-family="Arial" font-size="16" font-weight="bold">Torre dell'Apprendista</text>
+  <circle cx="265" cy="130" r="12" fill="#2A1810" stroke="url(#goldGradient)" stroke-width="2"/>
+  <text x="265" y="135" fill="url(#goldGradient)" font-size="16" text-anchor="middle">1</text>
+
+  <!-- Torre 2 - Novizio -->
+  <use href="#fancyButtonFrame" y="200"/>
+  <use href="#fancyTower" y="200"/>
+  <text x="85" y="235" fill="white" font-family="Arial" font-size="16" font-weight="bold">Torre del Novizio</text>
+  <circle cx="265" cy="230" r="12" fill="#2A1810" stroke="url(#goldGradient)" stroke-width="2"/>
+  <text x="265" y="235" fill="url(#goldGradient)" font-size="16" text-anchor="middle">2</text>
+
+  <!-- Torre 3 - Adepto -->
+  <use href="#fancyButtonFrame" y="300"/>
+  <use href="#fancyTower" y="300"/>
+  <text x="85" y="335" fill="white" font-family="Arial" font-size="16" font-weight="bold">Torre dell'Adepto</text>
+  <circle cx="265" cy="330" r="12" fill="#2A1810" stroke="url(#goldGradient)" stroke-width="2"/>
+  <text x="265" y="335" fill="url(#goldGradient)" font-size="16" text-anchor="middle">3</text>
+
+  <!-- Torre 4 - Incantatore -->
+  <use href="#fancyButtonFrame" y="400"/>
+  <use href="#fancyTower" y="400"/>
+  <text x="85" y="435" fill="white" font-family="Arial" font-size="16" font-weight="bold">Torre dell'Incantatore</text>
+  <circle cx="265" cy="430" r="12" fill="#2A1810" stroke="url(#goldGradient)" stroke-width="2"/>
+  <text x="265" y="435" fill="url(#goldGradient)" font-size="16" text-anchor="middle">4</text>
+
+  <!-- Torre 5 - Maestro -->
+  <use href="#fancyButtonFrame" y="500"/>
+  <use href="#fancyTower" y="500"/>
+  <text x="85" y="535" fill="white" font-family="Arial" font-size="16" font-weight="bold">Torre del Maestro</text>
+  <circle cx="265" cy="530" r="12" fill="#2A1810" stroke="url(#goldGradient)" stroke-width="2"/>
+  <text x="265" y="535" fill="url(#goldGradient)" font-size="16" text-anchor="middle">5</text>
+
+  <!-- Torre 6 - Arcimago -->
+  <use href="#fancyButtonFrame" y="600"/>
+  <use href="#fancyTower" y="600"/>
+  <text x="85" y="635" fill="white" font-family="Arial" font-size="16" font-weight="bold">Torre dell'Arcimago</text>
+  <circle cx="265" cy="630" r="12" fill="#2A1810" stroke="url(#goldGradient)" stroke-width="2"/>
+  <text x="265" y="635" fill="url(#goldGradient)" font-size="16" text-anchor="middle">6</text>
+
+  <!-- Torre 7 - Sapiente -->
+  <use href="#fancyButtonFrame" y="700"/>
+  <use href="#fancyTower" y="700"/>
+  <text x="85" y="735" fill="white" font-family="Arial" font-size="16" font-weight="bold">Torre del Sapiente</text>
+  <circle cx="265" cy="730" r="12" fill="#2A1810" stroke="url(#goldGradient)" stroke-width="2"/>
+  <text x="265" y="735" fill="url(#goldGradient)" font-size="16" text-anchor="middle">7</text>
+
+  <!-- Torre 8 - Leggendario -->
+  <use href="#fancyButtonFrame" y="800"/>
+  <use href="#fancyTower" y="800"/>
+  <text x="85" y="835" fill="white" font-family="Arial" font-size="16" font-weight="bold">Torre del Leggendario</text>
+  <circle cx="265" cy="830" r="12" fill="#2A1810" stroke="url(#goldGradient)" stroke-width="2"/>
+  <text x="265" y="835" fill="url(#goldGradient)" font-size="16" text-anchor="middle">8</text>
+
+  <!-- Torre 9 - Impossibile -->
+  <use href="#fancyButtonFrame" y="900"/>
+  <use href="#fancyTower" y="900"/>
+  <text x="85" y="935" fill="white" font-family="Arial" font-size="16" font-weight="bold">Torre dell'Impossibile</text>
+  <circle cx="265" cy="930" r="12" fill="#2A1810" stroke="url(#goldGradient)" stroke-width="2"/>
+  <text x="265" y="935" fill="url(#goldGradient)" font-size="16" text-anchor="middle">9</text>
+</svg>

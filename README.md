@@ -5,7 +5,7 @@ Un gioco puzzle dove guidi un mago attraverso torri piene di sfide!
 
 ## Requisiti di Sistema
 - Windows 10 o superiore
-- Minimo 8GB di RAM
+- Minimo 4GB di RAM
 - Risoluzione minima: 1280x720
 - Python 3.11 o superiore
 - Dipendenze Python:

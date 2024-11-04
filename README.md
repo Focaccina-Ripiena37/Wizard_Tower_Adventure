@@ -40,10 +40,8 @@ Per bug o problemi tecnici, per favore includi:
 - I passi per riprodurre il problema
 - La versione del gioco che stai usando
 
-## Crediti
-
 ### Sviluppatore
-- [Il tuo nome] - Sviluppatore principale
+- Lorenzo Massafra - Sviluppatore principale
 
 ### Librerie Utilizzate
 - Python 3.11

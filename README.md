@@ -32,7 +32,7 @@ Se incontri problemi:
 
 ## Supporto
 Per segnalare problemi o richiedere supporto:
-- GitHub Repository: https://github.com/Focaccina-Ripiena37/wizard-tower
+- GitHub Repository: https://github.com/Focaccina-Ripiena37/Wizard_Tower_Adventure
 
 Per bug o problemi tecnici, per favore includi:
 - Il file di log (`logs/error.log`)
@@ -77,4 +77,5 @@ Questo gioco è distribuito sotto la licenza [tipo di licenza]. Vedi il file `LI
 - Changelog completo disponibile in `CHANGELOG.md`
 
 ![start.png](https://i.postimg.cc/Qx1McXWs/start.png)
+!(https://i.postimg.cc/44rdKKyB/Immagine.png)
 

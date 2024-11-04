@@ -78,5 +78,5 @@ Questo gioco è distribuito sotto la licenza [tipo di licenza]. Vedi il file `LI
 
 ![Start](images/start.png)
 ![Menu](images/Immagine.png)
-![Level](images/immagine1.png)
+![Level](images/Immagine1.png)
 

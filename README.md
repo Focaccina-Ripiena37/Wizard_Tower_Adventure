@@ -76,7 +76,7 @@ Questo gioco è distribuito sotto la licenza [tipo di licenza]. Vedi il file `LI
 - Data rilascio: 03/11/2024
 - Changelog completo disponibile in `CHANGELOG.md`
 
-[url=https://postimages.org/][img]https://i.postimg.cc/44rdKKyB/Immagine.png[/img][/url]
+![Start](https://i.postimg.cc/44rdKKyB/Immagine.png)
 ![Menu](https://postimg.cc/PNQh95mw)
 ![Level](https://postimg.cc/3WTYtvDh)
 

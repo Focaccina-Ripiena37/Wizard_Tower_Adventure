@@ -77,5 +77,5 @@ Questo gioco è distribuito sotto la licenza [tipo di licenza]. Vedi il file `LI
 - Changelog completo disponibile in `CHANGELOG.md`
 
 ![start.png](https://i.postimg.cc/Qx1McXWs/start.png)
-!(https://i.postimg.cc/44rdKKyB/Immagine.png)
+![](https://i.postimg.cc/44rdKKyB/Immagine.png)
 

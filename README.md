@@ -5,7 +5,7 @@ Un gioco puzzle dove guidi un mago attraverso torri piene di sfide!
 ---
 
 ## **Descrizione**
-Wizard Tower è un puzzle game dove il giocatore controlla un mago che deve raccogliere pozioni per sconfiggere mostri e raggiungere il portale di uscita. Il gioco presenta 10 livelli di difficoltà crescente, dall'introduzione fino alle sfide più complesse.
+Wizard Tower è un puzzle game dove il giocatore controlla un mago che deve raccogliere pozioni per sconfiggere mostri e raggiungere il portale di uscita. Il gioco presenta 10 livelli di difficoltà crescente, dall'introduzione fino alle sfide più complesse. Si faccia riferimento al file `progetto.pdf` caricato per le specifiche principali del progetto.
 
 ---
 

@@ -25,10 +25,11 @@ Wizard Tower è un puzzle game dove il giocatore controlla un mago che deve racc
 ### Opzione 1: Eseguibile
 1. Estrai la cartella ZIP in una posizione a tua scelta.
 2. Avvia `WizardTowerSetup.exe`.
-3. Non modificare la struttura delle cartelle interne.
-4. Avvia l'eseguibile creato
+3. Avvia l'eseguibile creato
 
 ### Opzione 2: Codice sorgente
+Non modificare la struttura delle cartelle interne
+
 1. Clona il repository:
    ```bash
    git clone https://github.com/tuousername/wizard_tower.git
@@ -61,13 +62,18 @@ Wizard Tower è un puzzle game dove il giocatore controlla un mago che deve racc
      pip install pyinstaller
      ```
 
-3. **Usa lo script `build.bat` fornito nel progetto:**
-   - Nella root del tuo progetto, esegui il file `build.bat` che hai già nel progetto come amministratore:
+3. **Usa lo script `build.py` fornito nel progetto:**
+   - Nella root del tuo progetto, esegui il file `build.py` che hai già nel progetto:
      ```bash
-     python build.bat
+     python build.py
      ```
+   - Puoi trovare il file `WizardTower.exe` in `/build/WizardTower`
+
    - Questo script utilizza PyInstaller per creare un file `.exe` con le configurazioni necessarie, in /installer 
    come specificato nel comando `create_executable()` all'interno di `build.py`.
+
+   - Per generare l'installer esegui come amministratore il file `buil.bat`.
+     Creerá il `WizardTowerInstaller.exe` nella cartella `/installer`
 
 ### Supporto per macOS e Linux
 Per eseguire il progetto su macOS o Linux, devi creare versioni specifiche per quei sistemi operativi. Ecco come procedere:

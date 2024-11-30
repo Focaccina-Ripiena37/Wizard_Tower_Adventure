@@ -64,7 +64,7 @@ Per bug o problemi tecnici, per favore includi:
   - [OpenAI DALL-E] - Video introduttivi
 
 ### Ringraziamenti Speciali
-- ClaudeAI Professional Plan e OpenAI DALL-E Free Plan
+- ClaudeAI Free Plan e OpenAI DALL-E Free Plan
 
 ### Licenza
 Questo gioco è distribuito sotto la licenza: Licenza Creative Commons - CC BY-NC. Vedi il file `LICENSE.md` per i dettagli completi.

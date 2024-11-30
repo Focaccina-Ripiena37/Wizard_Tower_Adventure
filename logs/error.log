@@ -1,0 +1,1397 @@
+
+--------------------------------------------------
+Error timestamp: 2024-11-21 12:48:44.147978
+
+Starting application...
+Base path: C:\Users\Lorenzo\Desktop\Progettone\wizard_tower
+Current directory: C:\Users\Lorenzo\Desktop\Progettone\wizard_tower
+Python path: ['C:\\Users\\Lorenzo\\Desktop\\Progettone\\wizard_tower\\src', 'C:\\Users\\Lorenzo\\Desktop\\Progettone\\wizard_tower', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\python311.zip', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\DLLs', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\win32', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\win32\\lib', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\Pythonwin', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\site-packages']
+src directory exists: True
+    
+--------------------------------------------------
+Error timestamp: 2024-11-21 12:48:44.147978
+Importing Game class...
+--------------------------------------------------
+Error timestamp: 2024-11-21 12:48:44.212050
+Initializing game...
+--------------------------------------------------
+Error timestamp: 2024-11-21 12:48:44.580973
+Starting game loop...
+--------------------------------------------------
+Error timestamp: 2024-11-21 12:48:53.833074
+
+Starting application...
+Base path: C:\Users\Lorenzo\Desktop\Progettone\wizard_tower
+Current directory: C:\Users\Lorenzo\Desktop\Progettone\wizard_tower
+Python path: ['C:\\Users\\Lorenzo\\Desktop\\Progettone\\wizard_tower\\src', 'C:\\Users\\Lorenzo\\Desktop\\Progettone\\wizard_tower', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\python311.zip', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\DLLs', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\win32', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\win32\\lib', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\Pythonwin', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\site-packages']
+src directory exists: True
+    
+--------------------------------------------------
+Error timestamp: 2024-11-21 12:48:53.833074
+Importing Game class...
+--------------------------------------------------
+Error timestamp: 2024-11-21 12:48:53.855099
+Initializing game...
+--------------------------------------------------
+Error timestamp: 2024-11-21 12:48:54.195485
+Starting game loop...
+--------------------------------------------------
+Error timestamp: 2024-11-21 12:49:41.555364
+
+Starting application...
+Base path: C:\Users\Lorenzo\Desktop\Progettone\wizard_tower
+Current directory: C:\Users\Lorenzo\Desktop\Progettone\wizard_tower
+Python path: ['C:\\Users\\Lorenzo\\Desktop\\Progettone\\wizard_tower\\src', 'C:\\Users\\Lorenzo\\Desktop\\Progettone\\wizard_tower', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\python311.zip', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\DLLs', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\win32', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\win32\\lib', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\Pythonwin', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\site-packages']
+src directory exists: True
+    
+--------------------------------------------------
+Error timestamp: 2024-11-21 12:49:41.556365
+Importing Game class...
+--------------------------------------------------
+Error timestamp: 2024-11-21 12:49:41.578391
+Initializing game...
+--------------------------------------------------
+Error timestamp: 2024-11-21 12:49:41.913771
+Starting game loop...
+--------------------------------------------------
+Error timestamp: 2024-11-21 16:06:34.742654
+
+Starting application...
+Base path: C:\Users\Lorenzo\Desktop\Progettone\wizard_tower
+Current directory: C:\Users\Lorenzo\Desktop\Progettone\wizard_tower
+Python path: ['C:\\Users\\Lorenzo\\Desktop\\Progettone\\wizard_tower\\src', 'C:\\Users\\Lorenzo\\Desktop\\Progettone\\wizard_tower', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\python311.zip', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\DLLs', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\win32', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\win32\\lib', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\Pythonwin', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\site-packages']
+src directory exists: True
+    
+--------------------------------------------------
+Error timestamp: 2024-11-21 16:06:34.742654
+Importing Game class...
+--------------------------------------------------
+Error timestamp: 2024-11-21 16:06:34.871801
+Initializing game...
+--------------------------------------------------
+Error timestamp: 2024-11-21 16:06:35.307295
+Starting game loop...
+--------------------------------------------------
+Error timestamp: 2024-11-21 16:06:38.829294
+
+Error running game: 'super' object has no attribute 'draw'
+
+Traceback:
+Traceback (most recent call last):
+  File "C:\Users\Lorenzo\Desktop\Progettone\wizard_tower\run.py", line 54, in <module>
+    game.run()
+  File "C:\Users\Lorenzo\Desktop\Progettone\wizard_tower\src\main.py", line 160, in run
+    if not self._handle_playing():  # se ritorna False, il gioco deve terminare
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lorenzo\Desktop\Progettone\wizard_tower\src\main.py", line 67, in _handle_playing
+    self.level.draw(self.screen)
+  File "C:\Users\Lorenzo\Desktop\Progettone\wizard_tower\src\level.py", line 283, in draw
+    super().draw(screen)
+    ^^^^^^^^^^^^
+AttributeError: 'super' object has no attribute 'draw'
+
+    
+--------------------------------------------------
+Error timestamp: 2024-11-21 16:06:45.777182
+
+Starting application...
+Base path: C:\Users\Lorenzo\Desktop\Progettone\wizard_tower
+Current directory: C:\Users\Lorenzo\Desktop\Progettone\wizard_tower
+Python path: ['C:\\Users\\Lorenzo\\Desktop\\Progettone\\wizard_tower\\src', 'C:\\Users\\Lorenzo\\Desktop\\Progettone\\wizard_tower', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\python311.zip', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\DLLs', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\win32', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\win32\\lib', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\Pythonwin', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\site-packages']
+src directory exists: True
+    
+--------------------------------------------------
+Error timestamp: 2024-11-21 16:06:45.777182
+Importing Game class...
+--------------------------------------------------
+Error timestamp: 2024-11-21 16:06:45.808217
+Initializing game...
+--------------------------------------------------
+Error timestamp: 2024-11-21 16:06:46.147602
+Starting game loop...
+--------------------------------------------------
+Error timestamp: 2024-11-21 16:06:48.538316
+
+Error running game: 'super' object has no attribute 'draw'
+
+Traceback:
+Traceback (most recent call last):
+  File "C:\Users\Lorenzo\Desktop\Progettone\wizard_tower\run.py", line 54, in <module>
+    game.run()
+  File "C:\Users\Lorenzo\Desktop\Progettone\wizard_tower\src\main.py", line 160, in run
+    if not self._handle_playing():  # se ritorna False, il gioco deve terminare
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lorenzo\Desktop\Progettone\wizard_tower\src\main.py", line 67, in _handle_playing
+    self.level.draw(self.screen)
+  File "C:\Users\Lorenzo\Desktop\Progettone\wizard_tower\src\level.py", line 283, in draw
+    super().draw(screen)
+    ^^^^^^^^^^^^
+AttributeError: 'super' object has no attribute 'draw'
+
+    
+--------------------------------------------------
+Error timestamp: 2024-11-21 16:08:41.058097
+
+Starting application...
+Base path: C:\Users\Lorenzo\Desktop\Progettone\wizard_tower
+Current directory: C:\Users\Lorenzo\Desktop\Progettone\wizard_tower
+Python path: ['C:\\Users\\Lorenzo\\Desktop\\Progettone\\wizard_tower\\src', 'C:\\Users\\Lorenzo\\Desktop\\Progettone\\wizard_tower', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\python311.zip', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\DLLs', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\win32', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\win32\\lib', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\Pythonwin', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\site-packages']
+src directory exists: True
+    
+--------------------------------------------------
+Error timestamp: 2024-11-21 16:08:41.058097
+Importing Game class...
+--------------------------------------------------
+Error timestamp: 2024-11-21 16:08:41.091135
+Initializing game...
+--------------------------------------------------
+Error timestamp: 2024-11-21 16:08:41.431521
+Starting game loop...
+--------------------------------------------------
+Error timestamp: 2024-11-21 16:11:02.095585
+
+Starting application...
+Base path: C:\Users\Lorenzo\Desktop\Progettone\wizard_tower
+Current directory: C:\Users\Lorenzo\Desktop\Progettone\wizard_tower
+Python path: ['C:\\Users\\Lorenzo\\Desktop\\Progettone\\wizard_tower\\src', 'C:\\Users\\Lorenzo\\Desktop\\Progettone\\wizard_tower', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\python311.zip', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\DLLs', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\win32', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\win32\\lib', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\Pythonwin', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\site-packages']
+src directory exists: True
+    
+--------------------------------------------------
+Error timestamp: 2024-11-21 16:11:02.095585
+Importing Game class...
+--------------------------------------------------
+Error timestamp: 2024-11-21 16:11:02.132627
+Initializing game...
+--------------------------------------------------
+Error timestamp: 2024-11-21 16:11:02.471011
+Starting game loop...
+--------------------------------------------------
+Error timestamp: 2024-11-21 18:34:51.957278
+
+Starting application...
+Base path: C:\Users\Lorenzo\Desktop\Progettone\wizard_tower
+Current directory: C:\Users\Lorenzo\Desktop\Progettone\wizard_tower
+Python path: ['C:\\Users\\Lorenzo\\Desktop\\Progettone\\wizard_tower\\src', 'C:\\Users\\Lorenzo\\Desktop\\Progettone\\wizard_tower', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\python311.zip', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\DLLs', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\win32', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\win32\\lib', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\Pythonwin', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\site-packages']
+src directory exists: True
+    
+--------------------------------------------------
+Error timestamp: 2024-11-21 18:34:51.957278
+Importing Game class...
+--------------------------------------------------
+Error timestamp: 2024-11-21 18:34:52.013342
+
+Error running game: attempted relative import with no known parent package
+
+Traceback:
+Traceback (most recent call last):
+  File "C:\Users\Lorenzo\Desktop\Progettone\wizard_tower\src\main.py", line 14, in <module>
+    from src.wizard_tower_merged import WizardTowerSolver
+  File "C:\Users\Lorenzo\Desktop\Progettone\wizard_tower\src\wizard_tower_merged.py", line 3, in <module>
+    from .search import Problem, astar_search
+  File "C:\Users\Lorenzo\Desktop\Progettone\wizard_tower\src\search.py", line 12, in <module>
+    from utils import *
+ModuleNotFoundError: No module named 'utils'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Lorenzo\Desktop\Progettone\wizard_tower\run.py", line 48, in <module>
+    from src.main import Game
+  File "C:\Users\Lorenzo\Desktop\Progettone\wizard_tower\src\main.py", line 28, in <module>
+    from wizard_tower_merged import WizardTowerSolver
+  File "C:\Users\Lorenzo\Desktop\Progettone\wizard_tower\src\wizard_tower_merged.py", line 3, in <module>
+    from .search import Problem, astar_search
+ImportError: attempted relative import with no known parent package
+
+    
+--------------------------------------------------
+Error timestamp: 2024-11-21 18:43:51.142960
+
+Starting application...
+Base path: C:\Users\Lorenzo\Desktop\Progettone\wizard_tower
+Current directory: C:\Users\Lorenzo\Desktop\Progettone\wizard_tower
+Python path: ['C:\\Users\\Lorenzo\\Desktop\\Progettone\\wizard_tower\\src', 'C:\\Users\\Lorenzo\\Desktop\\Progettone\\wizard_tower', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\python311.zip', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\DLLs', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\win32', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\win32\\lib', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\Pythonwin', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\site-packages']
+src directory exists: True
+    
+--------------------------------------------------
+Error timestamp: 2024-11-21 18:43:51.142960
+Importing Game class...
+--------------------------------------------------
+Error timestamp: 2024-11-21 18:43:51.193017
+Initializing game...
+--------------------------------------------------
+Error timestamp: 2024-11-21 18:43:51.530400
+Starting game loop...
+--------------------------------------------------
+Error timestamp: 2024-11-21 18:51:24.702441
+
+Starting application...
+Base path: C:\Users\Lorenzo\Desktop\Progettone\wizard_tower
+Current directory: C:\Users\Lorenzo\Desktop\Progettone\wizard_tower
+Python path: ['C:\\Users\\Lorenzo\\Desktop\\Progettone\\wizard_tower\\src', 'C:\\Users\\Lorenzo\\Desktop\\Progettone\\wizard_tower', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\python311.zip', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\DLLs', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\win32', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\win32\\lib', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\Pythonwin', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\site-packages']
+src directory exists: True
+    
+--------------------------------------------------
+Error timestamp: 2024-11-21 18:51:24.703442
+Importing Game class...
+--------------------------------------------------
+Error timestamp: 2024-11-21 18:51:24.745490
+Initializing game...
+--------------------------------------------------
+Error timestamp: 2024-11-21 18:51:25.086877
+Starting game loop...
+--------------------------------------------------
+Error timestamp: 2024-11-21 18:53:20.291706
+
+Starting application...
+Base path: C:\Users\Lorenzo\Desktop\Progettone\wizard_tower
+Current directory: C:\Users\Lorenzo\Desktop\Progettone\wizard_tower
+Python path: ['C:\\Users\\Lorenzo\\Desktop\\Progettone\\wizard_tower\\src', 'C:\\Users\\Lorenzo\\Desktop\\Progettone\\wizard_tower', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\python311.zip', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\DLLs', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\win32', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\win32\\lib', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\Pythonwin', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\site-packages']
+src directory exists: True
+    
+--------------------------------------------------
+Error timestamp: 2024-11-21 18:53:20.292707
+Importing Game class...
+--------------------------------------------------
+Error timestamp: 2024-11-21 18:53:20.339761
+Initializing game...
+--------------------------------------------------
+Error timestamp: 2024-11-21 18:53:20.681148
+Starting game loop...
+--------------------------------------------------
+Error timestamp: 2024-11-21 19:09:07.416694
+
+Starting application...
+Base path: C:\Users\Lorenzo\Desktop\Progettone\wizard_tower
+Current directory: C:\Users\Lorenzo\Desktop\Progettone\wizard_tower
+Python path: ['C:\\Users\\Lorenzo\\Desktop\\Progettone\\wizard_tower\\src', 'C:\\Users\\Lorenzo\\Desktop\\Progettone\\wizard_tower', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\python311.zip', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\DLLs', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\win32', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\win32\\lib', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\Pythonwin', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\site-packages']
+src directory exists: True
+    
+--------------------------------------------------
+Error timestamp: 2024-11-21 19:09:07.416694
+Importing Game class...
+--------------------------------------------------
+Error timestamp: 2024-11-21 19:09:07.459742
+Initializing game...
+--------------------------------------------------
+Error timestamp: 2024-11-21 19:09:07.799128
+Starting game loop...
+--------------------------------------------------
+Error timestamp: 2024-11-21 19:36:47.594013
+
+Starting application...
+Base path: C:\Users\Lorenzo\Desktop\Progettone\wizard_tower
+Current directory: C:\Users\Lorenzo\Desktop\Progettone\wizard_tower
+Python path: ['C:\\Users\\Lorenzo\\Desktop\\Progettone\\wizard_tower\\src', 'C:\\Users\\Lorenzo\\Desktop\\Progettone\\wizard_tower', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\python311.zip', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\DLLs', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\win32', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\win32\\lib', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\Pythonwin', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\site-packages']
+src directory exists: True
+    
+--------------------------------------------------
+Error timestamp: 2024-11-21 19:36:47.595014
+Importing Game class...
+--------------------------------------------------
+Error timestamp: 2024-11-21 19:36:47.632056
+Initializing game...
+--------------------------------------------------
+Error timestamp: 2024-11-21 19:36:47.973444
+Starting game loop...
+--------------------------------------------------
+Error timestamp: 2024-11-23 18:17:58.162392
+
+Starting application...
+Base path: C:\Users\Lorenzo\Desktop\Progettone\wizard_tower
+Current directory: C:\Users\Lorenzo\Desktop\Progettone\wizard_tower
+Python path: ['C:\\Users\\Lorenzo\\Desktop\\Progettone\\wizard_tower\\src', 'C:\\Users\\Lorenzo\\Desktop\\Progettone\\wizard_tower', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\python311.zip', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\DLLs', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\win32', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\win32\\lib', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\Pythonwin', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\site-packages']
+src directory exists: True
+    
+--------------------------------------------------
+Error timestamp: 2024-11-23 18:17:58.162392
+Importing Game class...
+--------------------------------------------------
+Error timestamp: 2024-11-23 18:17:58.444713
+Initializing game...
+--------------------------------------------------
+Error timestamp: 2024-11-23 18:17:58.939283
+Starting game loop...
+--------------------------------------------------
+Error timestamp: 2024-11-23 18:32:50.931533
+
+Starting application...
+Base path: C:\Users\Lorenzo\Desktop\Progettone\wizard_tower
+Current directory: C:\Users\Lorenzo\Desktop\Progettone\wizard_tower
+Python path: ['C:\\Users\\Lorenzo\\Desktop\\Progettone\\wizard_tower\\src', 'C:\\Users\\Lorenzo\\Desktop\\Progettone\\wizard_tower', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\python311.zip', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\DLLs', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\win32', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\win32\\lib', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\Pythonwin', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\site-packages']
+src directory exists: True
+    
+--------------------------------------------------
+Error timestamp: 2024-11-23 18:32:50.931533
+Importing Game class...
+--------------------------------------------------
+Error timestamp: 2024-11-23 18:32:50.962568
+Initializing game...
+--------------------------------------------------
+Error timestamp: 2024-11-23 18:32:51.304467
+Starting game loop...
+--------------------------------------------------
+Error timestamp: 2024-11-23 18:41:08.153725
+
+Starting application...
+Base path: C:\Users\Lorenzo\Desktop\Progettone\wizard_tower
+Current directory: C:\Users\Lorenzo\Desktop\Progettone\wizard_tower
+Python path: ['C:\\Users\\Lorenzo\\Desktop\\Progettone\\wizard_tower\\src', 'C:\\Users\\Lorenzo\\Desktop\\Progettone\\wizard_tower', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\python311.zip', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\DLLs', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\win32', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\win32\\lib', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\Pythonwin', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\site-packages']
+src directory exists: True
+    
+--------------------------------------------------
+Error timestamp: 2024-11-23 18:41:08.153725
+Importing Game class...
+--------------------------------------------------
+Error timestamp: 2024-11-23 18:41:08.194772
+Initializing game...
+--------------------------------------------------
+Error timestamp: 2024-11-23 18:41:08.534661
+Starting game loop...
+--------------------------------------------------
+Error timestamp: 2024-11-23 18:51:18.400847
+
+Starting application...
+Base path: C:\Users\Lorenzo\Desktop\Progettone\wizard_tower
+Current directory: C:\Users\Lorenzo\Desktop\Progettone\wizard_tower
+Python path: ['C:\\Users\\Lorenzo\\Desktop\\Progettone\\wizard_tower\\src', 'C:\\Users\\Lorenzo\\Desktop\\Progettone\\wizard_tower', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\python311.zip', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\DLLs', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\win32', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\win32\\lib', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\Pythonwin', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\site-packages']
+src directory exists: True
+    
+--------------------------------------------------
+Error timestamp: 2024-11-23 18:51:18.400847
+Importing Game class...
+--------------------------------------------------
+Error timestamp: 2024-11-23 18:51:18.434885
+Initializing game...
+--------------------------------------------------
+Error timestamp: 2024-11-23 18:51:18.773270
+Starting game loop...
+--------------------------------------------------
+Error timestamp: 2024-11-23 19:24:46.066084
+
+Starting application...
+Base path: C:\Users\Lorenzo\Desktop\Progettone\wizard_tower
+Current directory: C:\Users\Lorenzo\Desktop\Progettone\wizard_tower
+Python path: ['C:\\Users\\Lorenzo\\Desktop\\Progettone\\wizard_tower\\src', 'C:\\Users\\Lorenzo\\Desktop\\Progettone\\wizard_tower', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\python311.zip', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\DLLs', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\win32', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\win32\\lib', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\Pythonwin', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\site-packages']
+src directory exists: True
+    
+--------------------------------------------------
+Error timestamp: 2024-11-23 19:24:46.066084
+Importing Game class...
+--------------------------------------------------
+Error timestamp: 2024-11-23 19:24:46.123149
+
+Error running game: attempted relative import with no known parent package
+
+Traceback:
+Traceback (most recent call last):
+  File "C:\Users\Lorenzo\Desktop\Progettone\wizard_tower\src\main.py", line 14, in <module>
+    from .wizard_tower_merged import WizardTowerSolver
+  File "C:\Users\Lorenzo\Desktop\Progettone\wizard_tower\src\wizard_tower_merged.py", line 4, in <module>
+    from .lib.aima_python.search import Problem, astar_search
+  File "C:\Users\Lorenzo\Desktop\Progettone\wizard_tower\src\lib\aima_python\search.py", line 12, in <module>
+    from utils import *
+ModuleNotFoundError: No module named 'utils'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Lorenzo\Desktop\Progettone\wizard_tower\run.py", line 48, in <module>
+    from src.main import Game
+  File "C:\Users\Lorenzo\Desktop\Progettone\wizard_tower\src\main.py", line 28, in <module>
+    from wizard_tower_merged import WizardTowerSolver
+  File "C:\Users\Lorenzo\Desktop\Progettone\wizard_tower\src\wizard_tower_merged.py", line 4, in <module>
+    from .lib.aima_python.search import Problem, astar_search
+ImportError: attempted relative import with no known parent package
+
+    
+--------------------------------------------------
+Error timestamp: 2024-11-23 19:26:51.518664
+
+Starting application...
+Base path: C:\Users\Lorenzo\Desktop\Progettone\wizard_tower
+Current directory: C:\Users\Lorenzo\Desktop\Progettone\wizard_tower
+Python path: ['C:\\Users\\Lorenzo\\Desktop\\Progettone\\wizard_tower\\src', 'C:\\Users\\Lorenzo\\Desktop\\Progettone\\wizard_tower', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\python311.zip', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\DLLs', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\win32', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\win32\\lib', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\Pythonwin', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\site-packages']
+src directory exists: True
+    
+--------------------------------------------------
+Error timestamp: 2024-11-23 19:26:51.519665
+Importing Game class...
+--------------------------------------------------
+Error timestamp: 2024-11-23 19:26:51.592748
+
+Error running game: attempted relative import with no known parent package
+
+Traceback:
+Traceback (most recent call last):
+  File "C:\Users\Lorenzo\Desktop\Progettone\wizard_tower\src\main.py", line 14, in <module>
+    from .wizard_tower_merged import WizardTowerSolver
+  File "C:\Users\Lorenzo\Desktop\Progettone\wizard_tower\src\wizard_tower_merged.py", line 4, in <module>
+    from .lib.aima_python.search import Problem, astar_search
+  File "C:\Users\Lorenzo\Desktop\Progettone\wizard_tower\src\lib\aima_python\search.py", line 12, in <module>
+    from utils import *
+ModuleNotFoundError: No module named 'utils'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Lorenzo\Desktop\Progettone\wizard_tower\run.py", line 48, in <module>
+    from src.main import Game
+  File "C:\Users\Lorenzo\Desktop\Progettone\wizard_tower\src\main.py", line 28, in <module>
+    from wizard_tower_merged import WizardTowerSolver
+  File "C:\Users\Lorenzo\Desktop\Progettone\wizard_tower\src\wizard_tower_merged.py", line 4, in <module>
+    from .lib.aima_python.search import Problem, astar_search
+ImportError: attempted relative import with no known parent package
+
+    
+--------------------------------------------------
+Error timestamp: 2024-11-24 11:46:53.659116
+
+Starting application...
+Base path: C:\Users\Lorenzo\Desktop\Progettone\wizard_tower
+Current directory: C:\Users\Lorenzo\Desktop\Progettone\wizard_tower
+Python path: ['C:\\Users\\Lorenzo\\Desktop\\Progettone\\wizard_tower\\src', 'C:\\Users\\Lorenzo\\Desktop\\Progettone\\wizard_tower', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\python311.zip', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\DLLs', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\win32', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\win32\\lib', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\Pythonwin', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\site-packages']
+src directory exists: True
+    
+--------------------------------------------------
+Error timestamp: 2024-11-24 11:46:53.659116
+Importing Game class...
+--------------------------------------------------
+Error timestamp: 2024-11-24 11:46:53.937433
+
+Error running game: attempted relative import with no known parent package
+
+Traceback:
+Traceback (most recent call last):
+  File "C:\Users\Lorenzo\Desktop\Progettone\wizard_tower\src\main.py", line 14, in <module>
+    from .wizard_tower_merged import WizardTowerSolver
+  File "C:\Users\Lorenzo\Desktop\Progettone\wizard_tower\src\wizard_tower_merged.py", line 4, in <module>
+    from .lib.aima_python.search import Problem, astar_search
+  File "C:\Users\Lorenzo\Desktop\Progettone\wizard_tower\src\lib\aima_python\search.py", line 12, in <module>
+    from utils import *
+ModuleNotFoundError: No module named 'utils'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Lorenzo\Desktop\Progettone\wizard_tower\run.py", line 48, in <module>
+    from src.main import Game
+  File "C:\Users\Lorenzo\Desktop\Progettone\wizard_tower\src\main.py", line 28, in <module>
+    from wizard_tower_merged import WizardTowerSolver
+  File "C:\Users\Lorenzo\Desktop\Progettone\wizard_tower\src\wizard_tower_merged.py", line 4, in <module>
+    from .lib.aima_python.search import Problem, astar_search
+ImportError: attempted relative import with no known parent package
+
+    
+--------------------------------------------------
+Error timestamp: 2024-11-24 11:53:50.387784
+
+Starting application...
+Base path: C:\Users\Lorenzo\Desktop\Progettone\wizard_tower
+Current directory: C:\Users\Lorenzo\Desktop\Progettone\wizard_tower
+Python path: ['C:\\Users\\Lorenzo\\Desktop\\Progettone\\wizard_tower\\src', 'C:\\Users\\Lorenzo\\Desktop\\Progettone\\wizard_tower', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\python311.zip', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\DLLs', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\win32', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\win32\\lib', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\Pythonwin', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\site-packages']
+src directory exists: True
+    
+--------------------------------------------------
+Error timestamp: 2024-11-24 11:53:50.387784
+Importing Game class...
+--------------------------------------------------
+Error timestamp: 2024-11-24 11:53:50.430833
+
+Error running game: attempted relative import with no known parent package
+
+Traceback:
+Traceback (most recent call last):
+  File "C:\Users\Lorenzo\Desktop\Progettone\wizard_tower\src\main.py", line 14, in <module>
+    from .wizard_tower_merged import WizardTowerSolver
+  File "C:\Users\Lorenzo\Desktop\Progettone\wizard_tower\src\wizard_tower_merged.py", line 4, in <module>
+    from .lib.aima_python.search import Problem, astar_search
+  File "C:\Users\Lorenzo\Desktop\Progettone\wizard_tower\src\lib\aima_python\search.py", line 12, in <module>
+    from utils import *
+ModuleNotFoundError: No module named 'utils'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Lorenzo\Desktop\Progettone\wizard_tower\run.py", line 48, in <module>
+    from src.main import Game
+  File "C:\Users\Lorenzo\Desktop\Progettone\wizard_tower\src\main.py", line 28, in <module>
+    from wizard_tower_merged import WizardTowerSolver
+  File "C:\Users\Lorenzo\Desktop\Progettone\wizard_tower\src\wizard_tower_merged.py", line 4, in <module>
+    from .lib.aima_python.search import Problem, astar_search
+ImportError: attempted relative import with no known parent package
+
+    
+--------------------------------------------------
+Error timestamp: 2024-11-24 11:53:53.885801
+
+Starting application...
+Base path: C:\Users\Lorenzo\Desktop\Progettone\wizard_tower
+Current directory: C:\Users\Lorenzo\Desktop\Progettone\wizard_tower
+Python path: ['C:\\Users\\Lorenzo\\Desktop\\Progettone\\wizard_tower\\src', 'C:\\Users\\Lorenzo\\Desktop\\Progettone\\wizard_tower', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\python311.zip', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\DLLs', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\win32', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\win32\\lib', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\Pythonwin', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\site-packages']
+src directory exists: True
+    
+--------------------------------------------------
+Error timestamp: 2024-11-24 11:53:53.885801
+Importing Game class...
+--------------------------------------------------
+Error timestamp: 2024-11-24 11:53:53.922844
+
+Error running game: attempted relative import with no known parent package
+
+Traceback:
+Traceback (most recent call last):
+  File "C:\Users\Lorenzo\Desktop\Progettone\wizard_tower\src\main.py", line 14, in <module>
+    from .wizard_tower_merged import WizardTowerSolver
+  File "C:\Users\Lorenzo\Desktop\Progettone\wizard_tower\src\wizard_tower_merged.py", line 4, in <module>
+    from .lib.aima_python.search import Problem, astar_search
+  File "C:\Users\Lorenzo\Desktop\Progettone\wizard_tower\src\lib\aima_python\search.py", line 12, in <module>
+    from utils import *
+ModuleNotFoundError: No module named 'utils'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Lorenzo\Desktop\Progettone\wizard_tower\run.py", line 48, in <module>
+    from src.main import Game
+  File "C:\Users\Lorenzo\Desktop\Progettone\wizard_tower\src\main.py", line 28, in <module>
+    from wizard_tower_merged import WizardTowerSolver
+  File "C:\Users\Lorenzo\Desktop\Progettone\wizard_tower\src\wizard_tower_merged.py", line 4, in <module>
+    from .lib.aima_python.search import Problem, astar_search
+ImportError: attempted relative import with no known parent package
+
+    
+--------------------------------------------------
+Error timestamp: 2024-11-24 12:03:57.331038
+
+Starting application...
+Base path: C:\Users\Lorenzo\Desktop\Progettone\wizard_tower
+Current directory: C:\Users\Lorenzo\Desktop\Progettone\wizard_tower
+Python path: ['C:\\Users\\Lorenzo\\Desktop\\Progettone\\wizard_tower\\src', 'C:\\Users\\Lorenzo\\Desktop\\Progettone\\wizard_tower', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\python311.zip', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\DLLs', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\win32', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\win32\\lib', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\Pythonwin', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\site-packages']
+src directory exists: True
+    
+--------------------------------------------------
+Error timestamp: 2024-11-24 12:03:57.331038
+Importing Game class...
+--------------------------------------------------
+Error timestamp: 2024-11-24 12:03:57.385100
+Initializing game...
+--------------------------------------------------
+Error timestamp: 2024-11-24 12:03:57.792075
+Starting game loop...
+--------------------------------------------------
+Error timestamp: 2024-11-24 12:06:04.979805
+
+Starting application...
+Base path: C:\Users\Lorenzo\Desktop\Progettone\wizard_tower
+Current directory: C:\Users\Lorenzo\Desktop\Progettone\wizard_tower
+Python path: ['C:\\Users\\Lorenzo\\Desktop\\Progettone\\wizard_tower\\src', 'C:\\Users\\Lorenzo\\Desktop\\Progettone\\wizard_tower', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\python311.zip', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\DLLs', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\win32', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\win32\\lib', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\Pythonwin', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\site-packages']
+src directory exists: True
+    
+--------------------------------------------------
+Error timestamp: 2024-11-24 12:06:04.979805
+Importing Game class...
+--------------------------------------------------
+Error timestamp: 2024-11-24 12:06:05.025857
+
+Error running game: attempted relative import with no known parent package
+
+Traceback:
+Traceback (most recent call last):
+  File "C:\Users\Lorenzo\Desktop\Progettone\wizard_tower\src\main.py", line 14, in <module>
+    from .wizard_tower_merged import WizardTowerSolver
+  File "C:\Users\Lorenzo\Desktop\Progettone\wizard_tower\src\wizard_tower_merged.py", line 4, in <module>
+    from .lib.aima_python.search import Problem, astar_search
+  File "C:\Users\Lorenzo\Desktop\Progettone\wizard_tower\src\lib\aima_python\search.py", line 12, in <module>
+    from utils import *
+ModuleNotFoundError: No module named 'utils'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Lorenzo\Desktop\Progettone\wizard_tower\run.py", line 48, in <module>
+    from src.main import Game
+  File "C:\Users\Lorenzo\Desktop\Progettone\wizard_tower\src\main.py", line 28, in <module>
+    from wizard_tower_merged import WizardTowerSolver
+  File "C:\Users\Lorenzo\Desktop\Progettone\wizard_tower\src\wizard_tower_merged.py", line 4, in <module>
+    from .lib.aima_python.search import Problem, astar_search
+ImportError: attempted relative import with no known parent package
+
+    
+--------------------------------------------------
+Error timestamp: 2024-11-24 12:06:54.548488
+
+Starting application...
+Base path: C:\Users\Lorenzo\Desktop\Progettone\wizard_tower
+Current directory: C:\Users\Lorenzo\Desktop\Progettone\wizard_tower
+Python path: ['C:\\Users\\Lorenzo\\Desktop\\Progettone\\wizard_tower\\src', 'C:\\Users\\Lorenzo\\Desktop\\Progettone\\wizard_tower', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\python311.zip', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\DLLs', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\win32', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\win32\\lib', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\Pythonwin', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\site-packages']
+src directory exists: True
+    
+--------------------------------------------------
+Error timestamp: 2024-11-24 12:06:54.548488
+Importing Game class...
+--------------------------------------------------
+Error timestamp: 2024-11-24 12:06:54.585530
+Initializing game...
+--------------------------------------------------
+Error timestamp: 2024-11-24 12:06:54.926918
+Starting game loop...
+--------------------------------------------------
+Error timestamp: 2024-11-24 12:12:03.377964
+
+Starting application...
+Base path: C:\Users\Lorenzo\Desktop\Progettone\wizard_tower
+Current directory: C:\Users\Lorenzo\Desktop\Progettone\wizard_tower
+Python path: ['C:\\Users\\Lorenzo\\Desktop\\Progettone\\wizard_tower\\src', 'C:\\Users\\Lorenzo\\Desktop\\Progettone\\wizard_tower', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\python311.zip', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\DLLs', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\win32', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\win32\\lib', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\Pythonwin', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\site-packages']
+src directory exists: True
+    
+--------------------------------------------------
+Error timestamp: 2024-11-24 12:12:03.377964
+Importing Game class...
+--------------------------------------------------
+Error timestamp: 2024-11-24 12:12:03.413004
+Initializing game...
+--------------------------------------------------
+Error timestamp: 2024-11-24 12:12:03.753399
+Starting game loop...
+--------------------------------------------------
+Error timestamp: 2024-11-24 12:12:23.517905
+
+Starting application...
+Base path: C:\Users\Lorenzo\Desktop\Progettone\wizard_tower
+Current directory: C:\Users\Lorenzo\Desktop\Progettone\wizard_tower
+Python path: ['C:\\Users\\Lorenzo\\Desktop\\Progettone\\wizard_tower\\src', 'C:\\Users\\Lorenzo\\Desktop\\Progettone\\wizard_tower', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\python311.zip', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\DLLs', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\win32', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\win32\\lib', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\Pythonwin', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\site-packages']
+src directory exists: True
+    
+--------------------------------------------------
+Error timestamp: 2024-11-24 12:12:23.517905
+Importing Game class...
+--------------------------------------------------
+Error timestamp: 2024-11-24 12:12:23.545937
+Initializing game...
+--------------------------------------------------
+Error timestamp: 2024-11-24 12:12:23.883329
+Starting game loop...
+--------------------------------------------------
+Error timestamp: 2024-11-24 12:31:40.968071
+
+Starting application...
+Base path: C:\Users\Lorenzo\Desktop\Progettone\wizard_tower
+Current directory: C:\Users\Lorenzo\Desktop\Progettone\wizard_tower
+Python path: ['C:\\Users\\Lorenzo\\Desktop\\Progettone\\wizard_tower\\src', 'C:\\Users\\Lorenzo\\Desktop\\Progettone\\wizard_tower', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\python311.zip', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\DLLs', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\win32', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\win32\\lib', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\Pythonwin', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\site-packages']
+src directory exists: True
+    
+--------------------------------------------------
+Error timestamp: 2024-11-24 12:31:40.969072
+Importing Game class...
+--------------------------------------------------
+Error timestamp: 2024-11-24 12:31:41.007115
+Initializing game...
+--------------------------------------------------
+Error timestamp: 2024-11-24 12:31:41.348008
+Starting game loop...
+--------------------------------------------------
+Error timestamp: 2024-11-24 12:37:46.674424
+
+Starting application...
+Base path: C:\Users\Lorenzo\Desktop\Progettone\wizard_tower
+Current directory: C:\Users\Lorenzo\Desktop\Progettone\wizard_tower
+Python path: ['C:\\Users\\Lorenzo\\Desktop\\Progettone\\wizard_tower\\src', 'C:\\Users\\Lorenzo\\Desktop\\Progettone\\wizard_tower', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\python311.zip', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\DLLs', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\win32', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\win32\\lib', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\Pythonwin', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\site-packages']
+src directory exists: True
+    
+--------------------------------------------------
+Error timestamp: 2024-11-24 12:37:46.674424
+Importing Game class...
+--------------------------------------------------
+Error timestamp: 2024-11-24 12:37:46.723480
+Initializing game...
+--------------------------------------------------
+Error timestamp: 2024-11-24 12:37:47.066871
+Starting game loop...
+--------------------------------------------------
+Error timestamp: 2024-11-24 12:46:07.527144
+
+Starting application...
+Base path: C:\Users\Lorenzo\Desktop\Progettone\wizard_tower
+Current directory: C:\Users\Lorenzo\Desktop\Progettone\wizard_tower
+Python path: ['C:\\Users\\Lorenzo\\Desktop\\Progettone\\wizard_tower\\src', 'C:\\Users\\Lorenzo\\Desktop\\Progettone\\wizard_tower', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\python311.zip', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\DLLs', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\win32', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\win32\\lib', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\Pythonwin', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\site-packages']
+src directory exists: True
+    
+--------------------------------------------------
+Error timestamp: 2024-11-24 12:46:07.528145
+Importing Game class...
+--------------------------------------------------
+Error timestamp: 2024-11-24 12:46:07.574198
+Initializing game...
+--------------------------------------------------
+Error timestamp: 2024-11-24 12:46:07.914096
+Starting game loop...
+--------------------------------------------------
+Error timestamp: 2024-11-24 12:55:44.773407
+
+Starting application...
+Base path: C:\Users\Lorenzo\Desktop\Progettone\wizard_tower
+Current directory: C:\Users\Lorenzo\Desktop\Progettone\wizard_tower
+Python path: ['C:\\Users\\Lorenzo\\Desktop\\Progettone\\wizard_tower\\src', 'C:\\Users\\Lorenzo\\Desktop\\Progettone\\wizard_tower', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\python311.zip', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\DLLs', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\win32', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\win32\\lib', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\Pythonwin', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\site-packages']
+src directory exists: True
+    
+--------------------------------------------------
+Error timestamp: 2024-11-24 12:55:44.773407
+Importing Game class...
+--------------------------------------------------
+Error timestamp: 2024-11-24 12:55:44.815455
+Initializing game...
+--------------------------------------------------
+Error timestamp: 2024-11-24 12:55:45.159861
+Starting game loop...
+--------------------------------------------------
+Error timestamp: 2024-11-24 12:59:33.402962
+
+Starting application...
+Base path: C:\Users\Lorenzo\Desktop\Progettone\wizard_tower
+Current directory: C:\Users\Lorenzo\Desktop\Progettone\wizard_tower
+Python path: ['C:\\Users\\Lorenzo\\Desktop\\Progettone\\wizard_tower\\src', 'C:\\Users\\Lorenzo\\Desktop\\Progettone\\wizard_tower', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\python311.zip', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\DLLs', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\win32', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\win32\\lib', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\Pythonwin', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\site-packages']
+src directory exists: True
+    
+--------------------------------------------------
+Error timestamp: 2024-11-24 12:59:33.402962
+Importing Game class...
+--------------------------------------------------
+Error timestamp: 2024-11-24 12:59:33.436000
+Initializing game...
+--------------------------------------------------
+Error timestamp: 2024-11-24 12:59:33.772895
+Starting game loop...
+--------------------------------------------------
+Error timestamp: 2024-11-24 18:52:33.579506
+
+Starting application...
+Base path: C:\Users\Lorenzo\Desktop\Progettone\wizard_tower
+Current directory: C:\Users\Lorenzo\Desktop\Progettone\wizard_tower
+Python path: ['C:\\Users\\Lorenzo\\Desktop\\Progettone\\wizard_tower\\src', 'C:\\Users\\Lorenzo\\Desktop\\Progettone\\wizard_tower', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\python311.zip', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\DLLs', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\win32', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\win32\\lib', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\Pythonwin', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\site-packages']
+src directory exists: True
+    
+--------------------------------------------------
+Error timestamp: 2024-11-24 18:52:33.580506
+Importing Game class...
+--------------------------------------------------
+Error timestamp: 2024-11-24 18:52:33.787742
+Initializing game...
+--------------------------------------------------
+Error timestamp: 2024-11-24 18:52:34.228252
+Starting game loop...
+--------------------------------------------------
+Error timestamp: 2024-11-24 18:54:26.415515
+
+Starting application...
+Base path: C:\Users\Lorenzo\Desktop\Progettone\wizard_tower
+Current directory: C:\Users\Lorenzo\Desktop\Progettone\wizard_tower
+Python path: ['C:\\Users\\Lorenzo\\Desktop\\Progettone\\wizard_tower\\src', 'C:\\Users\\Lorenzo\\Desktop\\Progettone\\wizard_tower', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\python311.zip', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\DLLs', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\win32', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\win32\\lib', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\Pythonwin', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\site-packages']
+src directory exists: True
+    
+--------------------------------------------------
+Error timestamp: 2024-11-24 18:54:26.415515
+Importing Game class...
+--------------------------------------------------
+Error timestamp: 2024-11-24 18:54:26.458565
+Initializing game...
+--------------------------------------------------
+Error timestamp: 2024-11-24 18:54:26.798455
+Starting game loop...
+--------------------------------------------------
+Error timestamp: 2024-11-24 19:17:50.709242
+
+Starting application...
+Base path: C:\Users\Lorenzo\Desktop\Progettone\wizard_tower
+Current directory: C:\Users\Lorenzo\Desktop\Progettone\wizard_tower
+Python path: ['C:\\Users\\Lorenzo\\Desktop\\Progettone\\wizard_tower\\src', 'C:\\Users\\Lorenzo\\Desktop\\Progettone\\wizard_tower', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\python311.zip', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\DLLs', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\win32', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\win32\\lib', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\Pythonwin', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\site-packages']
+src directory exists: True
+    
+--------------------------------------------------
+Error timestamp: 2024-11-24 19:17:50.709242
+Importing Game class...
+--------------------------------------------------
+Error timestamp: 2024-11-24 19:17:50.762302
+Initializing game...
+--------------------------------------------------
+Error timestamp: 2024-11-24 19:17:51.103691
+Starting game loop...
+--------------------------------------------------
+Error timestamp: 2024-11-24 19:45:44.753363
+
+Starting application...
+Base path: C:\Users\Lorenzo\Desktop\Progettone\wizard_tower
+Current directory: C:\Users\Lorenzo\Desktop\Progettone\wizard_tower
+Python path: ['C:\\Users\\Lorenzo\\Desktop\\Progettone\\wizard_tower\\src', 'C:\\Users\\Lorenzo\\Desktop\\Progettone\\wizard_tower', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\python311.zip', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\DLLs', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\win32', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\win32\\lib', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\Pythonwin', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\site-packages']
+src directory exists: True
+    
+--------------------------------------------------
+Error timestamp: 2024-11-24 19:45:44.753363
+Importing Game class...
+--------------------------------------------------
+Error timestamp: 2024-11-24 19:45:44.810428
+Initializing game...
+--------------------------------------------------
+Error timestamp: 2024-11-24 19:45:45.151823
+Starting game loop...
+--------------------------------------------------
+Error timestamp: 2024-11-24 19:46:16.819299
+
+Starting application...
+Base path: C:\Users\Lorenzo\Desktop\Progettone\wizard_tower
+Current directory: C:\Users\Lorenzo\Desktop\Progettone\wizard_tower
+Python path: ['C:\\Users\\Lorenzo\\Desktop\\Progettone\\wizard_tower\\src', 'C:\\Users\\Lorenzo\\Desktop\\Progettone\\wizard_tower', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\python311.zip', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\DLLs', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\win32', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\win32\\lib', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\Pythonwin', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\site-packages']
+src directory exists: True
+    
+--------------------------------------------------
+Error timestamp: 2024-11-24 19:46:16.819299
+Importing Game class...
+--------------------------------------------------
+Error timestamp: 2024-11-24 19:46:16.855340
+Initializing game...
+--------------------------------------------------
+Error timestamp: 2024-11-24 19:46:17.194726
+Starting game loop...
+--------------------------------------------------
+Error timestamp: 2024-11-24 20:16:23.443494
+
+Starting application...
+Base path: C:\Users\Lorenzo\Desktop\Progettone\wizard_tower
+Current directory: C:\Users\Lorenzo\Desktop\Progettone\wizard_tower
+Python path: ['C:\\Users\\Lorenzo\\Desktop\\Progettone\\wizard_tower\\src', 'C:\\Users\\Lorenzo\\Desktop\\Progettone\\wizard_tower', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\python311.zip', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\DLLs', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\win32', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\win32\\lib', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\Pythonwin', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\site-packages']
+src directory exists: True
+    
+--------------------------------------------------
+Error timestamp: 2024-11-24 20:16:23.443494
+Importing Game class...
+--------------------------------------------------
+Error timestamp: 2024-11-24 20:16:23.481537
+Initializing game...
+--------------------------------------------------
+Error timestamp: 2024-11-24 20:16:23.822429
+Starting game loop...
+--------------------------------------------------
+Error timestamp: 2024-11-24 20:16:54.086746
+
+Starting application...
+Base path: C:\Users\Lorenzo\Desktop\Progettone\wizard_tower
+Current directory: C:\Users\Lorenzo\Desktop\Progettone\wizard_tower
+Python path: ['C:\\Users\\Lorenzo\\Desktop\\Progettone\\wizard_tower\\src', 'C:\\Users\\Lorenzo\\Desktop\\Progettone\\wizard_tower', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\python311.zip', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\DLLs', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\win32', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\win32\\lib', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\Pythonwin', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\site-packages']
+src directory exists: True
+    
+--------------------------------------------------
+Error timestamp: 2024-11-24 20:16:54.086746
+Importing Game class...
+--------------------------------------------------
+Error timestamp: 2024-11-24 20:16:54.119784
+Initializing game...
+--------------------------------------------------
+Error timestamp: 2024-11-24 20:16:54.461677
+Starting game loop...
+--------------------------------------------------
+Error timestamp: 2024-11-27 13:36:29.291972
+
+Starting application...
+Base path: C:\Users\Lorenzo\Desktop\Progettone\backup\wizard_tower_9
+Current directory: C:\Users\Lorenzo\Desktop\Progettone\backup\wizard_tower_9
+Python path: ['C:\\Users\\Lorenzo\\Desktop\\Progettone\\backup\\wizard_tower_9\\src', 'C:\\Users\\Lorenzo\\Desktop\\Progettone\\backup\\wizard_tower_9', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\python311.zip', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\DLLs', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\win32', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\win32\\lib', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\Pythonwin', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\site-packages']
+src directory exists: True
+    
+--------------------------------------------------
+Error timestamp: 2024-11-27 13:36:29.291972
+Importing Game class...
+--------------------------------------------------
+Error timestamp: 2024-11-27 13:36:29.355044
+Initializing game...
+--------------------------------------------------
+Error timestamp: 2024-11-27 13:36:29.721459
+Starting game loop...
+--------------------------------------------------
+Error timestamp: 2024-11-27 13:36:43.088683
+
+Starting application...
+Base path: C:\Users\Lorenzo\Desktop\Progettone\backup\wizard_tower_9
+Current directory: C:\Users\Lorenzo\Desktop\Progettone\backup\wizard_tower_9
+Python path: ['C:\\Users\\Lorenzo\\Desktop\\Progettone\\backup\\wizard_tower_9\\src', 'C:\\Users\\Lorenzo\\Desktop\\Progettone\\backup\\wizard_tower_9', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\python311.zip', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\DLLs', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\win32', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\win32\\lib', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\Pythonwin', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\site-packages']
+src directory exists: True
+    
+--------------------------------------------------
+Error timestamp: 2024-11-27 13:36:43.089684
+Importing Game class...
+--------------------------------------------------
+Error timestamp: 2024-11-27 13:36:43.117716
+Initializing game...
+--------------------------------------------------
+Error timestamp: 2024-11-27 13:36:43.456100
+Starting game loop...
+--------------------------------------------------
+Error timestamp: 2024-11-28 22:04:09.296641
+
+Starting application...
+Base path: C:\Users\Lorenzo\Desktop\Progettone\wizard_tower
+Current directory: C:\Users\Lorenzo\Desktop\Progettone\wizard_tower
+Python path: ['C:\\Users\\Lorenzo\\Desktop\\Progettone\\wizard_tower\\src', 'C:\\Users\\Lorenzo\\Desktop\\Progettone\\wizard_tower', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\python311.zip', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\DLLs', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\win32', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\win32\\lib', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\Pythonwin', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\site-packages']
+src directory exists: True
+    
+--------------------------------------------------
+Error timestamp: 2024-11-28 22:04:09.297642
+Importing Game class...
+--------------------------------------------------
+Error timestamp: 2024-11-28 22:04:09.458327
+Initializing game...
+--------------------------------------------------
+Error timestamp: 2024-11-28 22:04:09.875340
+Starting game loop...
+--------------------------------------------------
+Error timestamp: 2024-11-28 22:04:23.833482
+
+Starting application...
+Base path: C:\Users\Lorenzo\Desktop\Progettone\wizard_tower
+Current directory: C:\Users\Lorenzo\Desktop\Progettone\wizard_tower
+Python path: ['C:\\Users\\Lorenzo\\Desktop\\Progettone\\wizard_tower\\src', 'C:\\Users\\Lorenzo\\Desktop\\Progettone\\wizard_tower', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\python311.zip', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\DLLs', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\win32', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\win32\\lib', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\Pythonwin', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\site-packages']
+src directory exists: True
+    
+--------------------------------------------------
+Error timestamp: 2024-11-28 22:04:23.833482
+Importing Game class...
+--------------------------------------------------
+Error timestamp: 2024-11-28 22:04:23.869523
+Initializing game...
+--------------------------------------------------
+Error timestamp: 2024-11-28 22:04:24.209441
+Starting game loop...
+--------------------------------------------------
+Error timestamp: 2024-11-28 22:05:47.774218
+
+Starting application...
+Base path: C:\Users\Lorenzo\Desktop\Progettone\wizard_tower
+Current directory: C:\Users\Lorenzo\Desktop\Progettone\wizard_tower
+Python path: ['C:\\Users\\Lorenzo\\Desktop\\Progettone\\wizard_tower\\src', 'C:\\Users\\Lorenzo\\Desktop\\Progettone\\wizard_tower', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\python311.zip', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\DLLs', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\win32', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\win32\\lib', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\Pythonwin', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\site-packages']
+src directory exists: True
+    
+--------------------------------------------------
+Error timestamp: 2024-11-28 22:05:47.774218
+Importing Game class...
+--------------------------------------------------
+Error timestamp: 2024-11-28 22:05:47.814263
+Initializing game...
+--------------------------------------------------
+Error timestamp: 2024-11-28 22:05:48.154666
+Starting game loop...
+--------------------------------------------------
+Error timestamp: 2024-11-28 22:06:54.383433
+
+Starting application...
+Base path: C:\Users\Lorenzo\Desktop\Progettone\wizard_tower
+Current directory: C:\Users\Lorenzo\Desktop\Progettone\wizard_tower
+Python path: ['C:\\Users\\Lorenzo\\Desktop\\Progettone\\wizard_tower\\src', 'C:\\Users\\Lorenzo\\Desktop\\Progettone\\wizard_tower', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\python311.zip', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\DLLs', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\win32', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\win32\\lib', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\Pythonwin', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\site-packages']
+src directory exists: True
+    
+--------------------------------------------------
+Error timestamp: 2024-11-28 22:06:54.384434
+Importing Game class...
+--------------------------------------------------
+Error timestamp: 2024-11-28 22:06:54.437494
+Initializing game...
+--------------------------------------------------
+Error timestamp: 2024-11-28 22:06:54.777385
+Starting game loop...
+--------------------------------------------------
+Error timestamp: 2024-11-28 22:08:16.766261
+
+Starting application...
+Base path: C:\Users\Lorenzo\Desktop\Progettone\wizard_tower
+Current directory: C:\Users\Lorenzo\Desktop\Progettone\wizard_tower
+Python path: ['C:\\Users\\Lorenzo\\Desktop\\Progettone\\wizard_tower\\src', 'C:\\Users\\Lorenzo\\Desktop\\Progettone\\wizard_tower', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\python311.zip', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\DLLs', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\win32', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\win32\\lib', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\Pythonwin', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\site-packages']
+src directory exists: True
+    
+--------------------------------------------------
+Error timestamp: 2024-11-28 22:08:16.766261
+Importing Game class...
+--------------------------------------------------
+Error timestamp: 2024-11-28 22:08:16.813315
+Initializing game...
+--------------------------------------------------
+Error timestamp: 2024-11-28 22:08:17.152203
+Starting game loop...
+--------------------------------------------------
+Error timestamp: 2024-11-28 22:11:39.927576
+
+Starting application...
+Base path: C:\Users\Lorenzo\Desktop\Progettone\wizard_tower
+Current directory: C:\Users\Lorenzo\Desktop\Progettone\wizard_tower
+Python path: ['C:\\Users\\Lorenzo\\Desktop\\Progettone\\wizard_tower\\src', 'C:\\Users\\Lorenzo\\Desktop\\Progettone\\wizard_tower', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\python311.zip', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\DLLs', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\win32', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\win32\\lib', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\Pythonwin', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\site-packages']
+src directory exists: True
+    
+--------------------------------------------------
+Error timestamp: 2024-11-28 22:11:39.927576
+Importing Game class...
+--------------------------------------------------
+Error timestamp: 2024-11-28 22:11:39.970625
+Initializing game...
+--------------------------------------------------
+Error timestamp: 2024-11-28 22:11:40.311021
+Starting game loop...
+--------------------------------------------------
+Error timestamp: 2024-11-28 22:11:48.656001
+
+Starting application...
+Base path: C:\Users\Lorenzo\Desktop\Progettone\wizard_tower
+Current directory: C:\Users\Lorenzo\Desktop\Progettone\wizard_tower
+Python path: ['C:\\Users\\Lorenzo\\Desktop\\Progettone\\wizard_tower\\src', 'C:\\Users\\Lorenzo\\Desktop\\Progettone\\wizard_tower', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\python311.zip', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\DLLs', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\win32', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\win32\\lib', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\Pythonwin', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\site-packages']
+src directory exists: True
+    
+--------------------------------------------------
+Error timestamp: 2024-11-28 22:11:48.656001
+Importing Game class...
+--------------------------------------------------
+Error timestamp: 2024-11-28 22:11:48.689039
+Initializing game...
+--------------------------------------------------
+Error timestamp: 2024-11-28 22:11:49.027928
+Starting game loop...
+--------------------------------------------------
+Error timestamp: 2024-11-28 22:11:51.997803
+
+Error running game: object of type 'NoneType' has no len()
+
+Traceback:
+Traceback (most recent call last):
+  File "C:\Users\Lorenzo\Desktop\Progettone\wizard_tower\run.py", line 54, in <module>
+    game.run()
+  File "C:\Users\Lorenzo\Desktop\Progettone\wizard_tower\src\main.py", line 176, in run
+    if not self._handle_playing():  # se ritorna False, il gioco deve terminare
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lorenzo\Desktop\Progettone\wizard_tower\src\main.py", line 72, in _handle_playing
+    self.level.draw(self.screen)
+  File "C:\Users\Lorenzo\Desktop\Progettone\wizard_tower\src\level.py", line 218, in draw
+    for y in range(len(self.grid)):
+                   ^^^^^^^^^^^^^^
+TypeError: object of type 'NoneType' has no len()
+
+    
+--------------------------------------------------
+Error timestamp: 2024-11-28 22:17:33.493006
+
+Starting application...
+Base path: C:\Users\Lorenzo\Desktop\Progettone\wizard_tower
+Current directory: C:\Users\Lorenzo\Desktop\Progettone\wizard_tower
+Python path: ['C:\\Users\\Lorenzo\\Desktop\\Progettone\\wizard_tower\\src', 'C:\\Users\\Lorenzo\\Desktop\\Progettone\\wizard_tower', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\python311.zip', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\DLLs', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\win32', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\win32\\lib', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\Pythonwin', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\site-packages']
+src directory exists: True
+    
+--------------------------------------------------
+Error timestamp: 2024-11-28 22:17:33.494007
+Importing Game class...
+--------------------------------------------------
+Error timestamp: 2024-11-28 22:17:33.536056
+Initializing game...
+--------------------------------------------------
+Error timestamp: 2024-11-28 22:17:33.876970
+Starting game loop...
+--------------------------------------------------
+Error timestamp: 2024-11-28 22:17:44.320344
+
+Starting application...
+Base path: C:\Users\Lorenzo\Desktop\Progettone\wizard_tower
+Current directory: C:\Users\Lorenzo\Desktop\Progettone\wizard_tower
+Python path: ['C:\\Users\\Lorenzo\\Desktop\\Progettone\\wizard_tower\\src', 'C:\\Users\\Lorenzo\\Desktop\\Progettone\\wizard_tower', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\python311.zip', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\DLLs', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\win32', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\win32\\lib', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\Pythonwin', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\site-packages']
+src directory exists: True
+    
+--------------------------------------------------
+Error timestamp: 2024-11-28 22:17:44.321345
+Importing Game class...
+--------------------------------------------------
+Error timestamp: 2024-11-28 22:17:44.354382
+Initializing game...
+--------------------------------------------------
+Error timestamp: 2024-11-28 22:17:44.695770
+Starting game loop...
+--------------------------------------------------
+Error timestamp: 2024-11-28 22:17:51.554086
+
+Starting application...
+Base path: C:\Users\Lorenzo\Desktop\Progettone\wizard_tower
+Current directory: C:\Users\Lorenzo\Desktop\Progettone\wizard_tower
+Python path: ['C:\\Users\\Lorenzo\\Desktop\\Progettone\\wizard_tower\\src', 'C:\\Users\\Lorenzo\\Desktop\\Progettone\\wizard_tower', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\python311.zip', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\DLLs', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\win32', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\win32\\lib', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\Pythonwin', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\site-packages']
+src directory exists: True
+    
+--------------------------------------------------
+Error timestamp: 2024-11-28 22:17:51.555086
+Importing Game class...
+--------------------------------------------------
+Error timestamp: 2024-11-28 22:17:51.582117
+Initializing game...
+--------------------------------------------------
+Error timestamp: 2024-11-28 22:17:51.919520
+Starting game loop...
+--------------------------------------------------
+Error timestamp: 2024-11-28 22:19:39.123577
+
+Starting application...
+Base path: C:\Users\Lorenzo\Desktop\Progettone\wizard_tower
+Current directory: C:\Users\Lorenzo\Desktop\Progettone\wizard_tower
+Python path: ['C:\\Users\\Lorenzo\\Desktop\\Progettone\\wizard_tower\\src', 'C:\\Users\\Lorenzo\\Desktop\\Progettone\\wizard_tower', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\python311.zip', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\DLLs', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\win32', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\win32\\lib', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\Pythonwin', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\site-packages']
+src directory exists: True
+    
+--------------------------------------------------
+Error timestamp: 2024-11-28 22:19:39.123577
+Importing Game class...
+--------------------------------------------------
+Error timestamp: 2024-11-28 22:19:39.151608
+Initializing game...
+--------------------------------------------------
+Error timestamp: 2024-11-28 22:19:39.489497
+Starting game loop...
+--------------------------------------------------
+Error timestamp: 2024-11-28 22:31:59.673111
+
+Starting application...
+Base path: C:\Users\Lorenzo\Desktop\Progettone\wizard_tower
+Current directory: C:\Users\Lorenzo\Desktop\Progettone\wizard_tower
+Python path: ['C:\\Users\\Lorenzo\\Desktop\\Progettone\\wizard_tower\\src', 'C:\\Users\\Lorenzo\\Desktop\\Progettone\\wizard_tower', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\python311.zip', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\DLLs', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\win32', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\win32\\lib', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\Pythonwin', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\site-packages']
+src directory exists: True
+    
+--------------------------------------------------
+Error timestamp: 2024-11-28 22:31:59.673111
+Importing Game class...
+--------------------------------------------------
+Error timestamp: 2024-11-28 22:31:59.713157
+Initializing game...
+--------------------------------------------------
+Error timestamp: 2024-11-28 22:32:00.051066
+Starting game loop...
+--------------------------------------------------
+Error timestamp: 2024-11-28 22:32:04.622312
+
+Starting application...
+Base path: C:\Users\Lorenzo\Desktop\Progettone\wizard_tower
+Current directory: C:\Users\Lorenzo\Desktop\Progettone\wizard_tower
+Python path: ['C:\\Users\\Lorenzo\\Desktop\\Progettone\\wizard_tower\\src', 'C:\\Users\\Lorenzo\\Desktop\\Progettone\\wizard_tower', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\python311.zip', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\DLLs', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\win32', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\win32\\lib', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\Pythonwin', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\site-packages']
+src directory exists: True
+    
+--------------------------------------------------
+Error timestamp: 2024-11-28 22:32:04.622312
+Importing Game class...
+--------------------------------------------------
+Error timestamp: 2024-11-28 22:32:04.655349
+Initializing game...
+--------------------------------------------------
+Error timestamp: 2024-11-28 22:32:04.994254
+Starting game loop...
+--------------------------------------------------
+Error timestamp: 2024-11-28 22:39:40.353255
+
+Starting application...
+Base path: C:\Users\Lorenzo\Desktop\Progettone\wizard_tower
+Current directory: C:\Users\Lorenzo\Desktop\Progettone\wizard_tower
+Python path: ['C:\\Users\\Lorenzo\\Desktop\\Progettone\\wizard_tower\\src', 'C:\\Users\\Lorenzo\\Desktop\\Progettone\\wizard_tower', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\python311.zip', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\DLLs', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\win32', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\win32\\lib', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\Pythonwin', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\site-packages']
+src directory exists: True
+    
+--------------------------------------------------
+Error timestamp: 2024-11-28 22:39:40.354256
+Importing Game class...
+--------------------------------------------------
+Error timestamp: 2024-11-28 22:39:40.393301
+Initializing game...
+--------------------------------------------------
+Error timestamp: 2024-11-28 22:39:40.733190
+Starting game loop...
+--------------------------------------------------
+Error timestamp: 2024-11-28 22:39:42.923260
+
+Error running game: 'LevelVisualizer' object has no attribute 'last_move_time'
+
+Traceback:
+Traceback (most recent call last):
+  File "C:\Users\Lorenzo\Desktop\Progettone\wizard_tower\run.py", line 54, in <module>
+    game.run()
+  File "C:\Users\Lorenzo\Desktop\Progettone\wizard_tower\src\main.py", line 176, in run
+    if not self._handle_playing():  # se ritorna False, il gioco deve terminare
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lorenzo\Desktop\Progettone\wizard_tower\src\main.py", line 69, in _handle_playing
+    level_status = self.level.update()
+                   ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lorenzo\Desktop\Progettone\wizard_tower\src\level.py", line 185, in update
+    if current_time - self.last_move_time < self.movement_delay:
+                      ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'LevelVisualizer' object has no attribute 'last_move_time'
+
+    
+--------------------------------------------------
+Error timestamp: 2024-11-28 22:39:46.650046
+
+Starting application...
+Base path: C:\Users\Lorenzo\Desktop\Progettone\wizard_tower
+Current directory: C:\Users\Lorenzo\Desktop\Progettone\wizard_tower
+Python path: ['C:\\Users\\Lorenzo\\Desktop\\Progettone\\wizard_tower\\src', 'C:\\Users\\Lorenzo\\Desktop\\Progettone\\wizard_tower', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\python311.zip', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\DLLs', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\win32', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\win32\\lib', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\Pythonwin', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\site-packages']
+src directory exists: True
+    
+--------------------------------------------------
+Error timestamp: 2024-11-28 22:39:46.650046
+Importing Game class...
+--------------------------------------------------
+Error timestamp: 2024-11-28 22:39:46.683084
+Initializing game...
+--------------------------------------------------
+Error timestamp: 2024-11-28 22:39:47.021992
+Starting game loop...
+--------------------------------------------------
+Error timestamp: 2024-11-28 22:39:52.470767
+
+Error running game: 'LevelVisualizer' object has no attribute 'last_move_time'
+
+Traceback:
+Traceback (most recent call last):
+  File "C:\Users\Lorenzo\Desktop\Progettone\wizard_tower\run.py", line 54, in <module>
+    game.run()
+  File "C:\Users\Lorenzo\Desktop\Progettone\wizard_tower\src\main.py", line 176, in run
+    if not self._handle_playing():  # se ritorna False, il gioco deve terminare
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lorenzo\Desktop\Progettone\wizard_tower\src\main.py", line 69, in _handle_playing
+    level_status = self.level.update()
+                   ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Lorenzo\Desktop\Progettone\wizard_tower\src\level.py", line 185, in update
+    if current_time - self.last_move_time < self.movement_delay:
+                      ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'LevelVisualizer' object has no attribute 'last_move_time'
+
+    
+--------------------------------------------------
+Error timestamp: 2024-11-28 22:50:24.254895
+
+Starting application...
+Base path: C:\Users\Lorenzo\Desktop\Progettone\wizard_tower
+Current directory: C:\Users\Lorenzo\Desktop\Progettone\wizard_tower
+Python path: ['C:\\Users\\Lorenzo\\Desktop\\Progettone\\wizard_tower\\src', 'C:\\Users\\Lorenzo\\Desktop\\Progettone\\wizard_tower', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\python311.zip', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\DLLs', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\win32', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\win32\\lib', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\Pythonwin', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\site-packages']
+src directory exists: True
+    
+--------------------------------------------------
+Error timestamp: 2024-11-28 22:50:24.254895
+Importing Game class...
+--------------------------------------------------
+Error timestamp: 2024-11-28 22:50:24.311959
+Initializing game...
+--------------------------------------------------
+Error timestamp: 2024-11-28 22:50:24.656862
+Starting game loop...
+--------------------------------------------------
+Error timestamp: 2024-11-28 22:50:39.143892
+
+Starting application...
+Base path: C:\Users\Lorenzo\Desktop\Progettone\wizard_tower
+Current directory: C:\Users\Lorenzo\Desktop\Progettone\wizard_tower
+Python path: ['C:\\Users\\Lorenzo\\Desktop\\Progettone\\wizard_tower\\src', 'C:\\Users\\Lorenzo\\Desktop\\Progettone\\wizard_tower', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\python311.zip', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\DLLs', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\win32', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\win32\\lib', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\Pythonwin', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\site-packages']
+src directory exists: True
+    
+--------------------------------------------------
+Error timestamp: 2024-11-28 22:50:39.143892
+Importing Game class...
+--------------------------------------------------
+Error timestamp: 2024-11-28 22:50:39.183937
+Initializing game...
+--------------------------------------------------
+Error timestamp: 2024-11-28 22:50:39.528344
+Starting game loop...
+--------------------------------------------------
+Error timestamp: 2024-11-30 11:24:04.928054
+
+Starting application...
+Base path: C:\Users\Lorenzo\Desktop\Progettone\backup\wizard_tower_12
+Current directory: C:\Users\Lorenzo\Desktop\Progettone\backup\wizard_tower_12
+Python path: ['C:\\Users\\Lorenzo\\Desktop\\Progettone\\backup\\wizard_tower_12\\src', 'C:\\Users\\Lorenzo\\Desktop\\Progettone\\backup\\wizard_tower_12', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\python311.zip', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\DLLs', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\win32', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\win32\\lib', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\Pythonwin', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\site-packages']
+src directory exists: True
+    
+--------------------------------------------------
+Error timestamp: 2024-11-30 11:24:04.929056
+Importing Game class...
+--------------------------------------------------
+Error timestamp: 2024-11-30 11:24:04.991126
+Initializing game...
+--------------------------------------------------
+Error timestamp: 2024-11-30 11:24:05.355044
+Starting game loop...
+--------------------------------------------------
+Error timestamp: 2024-11-30 11:54:25.058054
+
+Starting application...
+Base path: c:\Users\Lorenzo\Desktop\Progettone\wizard_tower
+Current directory: C:\Users\Lorenzo\Desktop\Progettone\wizard_tower
+Python path: ['c:\\Users\\Lorenzo\\Desktop\\Progettone\\wizard_tower\\src', 'c:\\Users\\Lorenzo\\Desktop\\Progettone\\wizard_tower', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\python311.zip', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\DLLs', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\win32', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\win32\\lib', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\Pythonwin', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\site-packages']
+src directory exists: True
+    
+--------------------------------------------------
+Error timestamp: 2024-11-30 11:54:25.059055
+Importing Game class...
+--------------------------------------------------
+Error timestamp: 2024-11-30 11:54:25.121125
+Initializing game...
+--------------------------------------------------
+Error timestamp: 2024-11-30 11:54:25.490552
+Starting game loop...
+--------------------------------------------------
+Error timestamp: 2024-11-30 12:08:50.445781
+
+Starting application...
+Base path: c:\Users\Lorenzo\Desktop\Progettone\wizard_tower
+Current directory: C:\Users\Lorenzo\Desktop\Progettone\wizard_tower
+Python path: ['c:\\Users\\Lorenzo\\Desktop\\Progettone\\wizard_tower\\src', 'c:\\Users\\Lorenzo\\Desktop\\Progettone\\wizard_tower', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\python311.zip', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\DLLs', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\win32', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\win32\\lib', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\Pythonwin', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\site-packages']
+src directory exists: True
+    
+--------------------------------------------------
+Error timestamp: 2024-11-30 12:08:50.445781
+Importing Game class...
+--------------------------------------------------
+Error timestamp: 2024-11-30 12:08:50.511856
+Initializing game...
+--------------------------------------------------
+Error timestamp: 2024-11-30 12:08:50.819718
+
+Error running game: SpriteLoader.__init__() missing 2 required positional arguments: 'sprite_sheet_path' and 'sprite_size'
+
+Traceback:
+Traceback (most recent call last):
+  File "c:\Users\Lorenzo\Desktop\Progettone\wizard_tower\run.py", line 51, in <module>
+    game = Game()
+           ^^^^^^
+  File "c:\Users\Lorenzo\Desktop\Progettone\wizard_tower\src\main.py", line 43, in __init__
+    self.sprites = SpriteLoader()
+                   ^^^^^^^^^^^^^^
+TypeError: SpriteLoader.__init__() missing 2 required positional arguments: 'sprite_sheet_path' and 'sprite_size'
+
+    
+--------------------------------------------------
+Error timestamp: 2024-11-30 17:35:14.261791
+
+Starting application...
+Base path: C:\Users\Lorenzo\Desktop\Progettone\wizard_tower
+Current directory: C:\Users\Lorenzo\Desktop\Progettone\wizard_tower
+Python path: ['C:\\Users\\Lorenzo\\Desktop\\Progettone\\wizard_tower\\src', 'C:\\Users\\Lorenzo\\Desktop\\Progettone\\wizard_tower', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\python311.zip', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\DLLs', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\win32', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\win32\\lib', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\Pythonwin', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\site-packages']
+src directory exists: True
+    
+--------------------------------------------------
+Error timestamp: 2024-11-30 17:35:14.261791
+Importing Game class...
+--------------------------------------------------
+Error timestamp: 2024-11-30 17:35:14.511074
+Initializing game...
+--------------------------------------------------
+Error timestamp: 2024-11-30 17:35:14.958581
+Starting game loop...
+--------------------------------------------------
+Error timestamp: 2024-11-30 18:59:32.841958
+
+Starting application...
+Base path: C:\Users\Lorenzo\Desktop\Progettone\wizard_tower
+Current directory: C:\Users\Lorenzo\Desktop\Progettone\wizard_tower
+Python path: ['C:\\Users\\Lorenzo\\Desktop\\Progettone\\wizard_tower\\src', 'C:\\Users\\Lorenzo\\Desktop\\Progettone\\wizard_tower', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\python311.zip', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\DLLs', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\win32', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\win32\\lib', 'C:\\Users\\Lorenzo\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\Pythonwin', 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\site-packages']
+src directory exists: True
+        
+--------------------------------------------------
+Error timestamp: 2024-11-30 18:59:32.841958
+Importing Game class...
+--------------------------------------------------
+Error timestamp: 2024-11-30 18:59:32.870991
+Initializing game...
+--------------------------------------------------
+Error timestamp: 2024-11-30 18:59:33.212378
+Starting game loop...

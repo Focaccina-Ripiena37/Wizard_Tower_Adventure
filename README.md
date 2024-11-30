@@ -32,7 +32,7 @@ Se incontri problemi:
 
 ## Supporto
 Per segnalare problemi o richiedere supporto:
-- GitHub Repository: https://github.com/Focaccina-Ripiena37/Wizard_Tower_Adventure
+- Mail: lorenzo.massafra@edu.unife.it
 
 Per bug o problemi tecnici, per favore includi:
 - Il file di log (`logs/error.log`)
@@ -67,11 +67,11 @@ Per bug o problemi tecnici, per favore includi:
 - ClaudeAI Professional Plan e OpenAI DALL-E Free Plan
 
 ### Licenza
-Questo gioco è distribuito sotto la licenza [tipo di licenza]. Vedi il file `LICENSE.md` per i dettagli completi.
+Questo gioco è distribuito sotto la licenza: Licenza Creative Commons - CC BY-NC. Vedi il file `LICENSE.md` per i dettagli completi.
 
 ### Note sulla Versione
 - Versione corrente: 1.0.0
-- Data rilascio: 03/11/2024
+- Data rilascio: 30/11/2024
 - Changelog completo disponibile in `CHANGELOG.md`
 
 [![start.png](https://i.postimg.cc/DZrCq4FL/start.png)](https://postimg.cc/hzGbnjXt)

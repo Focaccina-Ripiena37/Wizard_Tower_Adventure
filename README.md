@@ -191,11 +191,6 @@ Per bug o problemi tecnici, per favore includi:
 ---
 
 ### Immagini
-[![start.png](https://i.postimg.cc/DZrCq4FL/start.png)](https://postimg.cc/hzGbnjXt)
-[![Immagine.png](https://i.postimg.cc/SQGTR9gp/Immagine.png)](https://postimg.cc/z3VSPymd)
-[![Immagine1.png](https://i.postimg.cc/kMVGXNJ2/Immagine1.png)](https://postimg.cc/3WTYtvDh)
-
-
 ![start](https://github.com/user-attachments/assets/7d23f85e-cedd-4ce0-916a-b5a5a8e51eb2)
 ![Immagine](https://github.com/user-attachments/assets/487e0e71-9439-4d0d-8147-d37c8a5cb2eb)
 ![Immagine1](https://github.com/user-attachments/assets/6b154df1-5d6d-47c3-9cef-76343ce9de40)

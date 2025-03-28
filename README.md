@@ -161,6 +161,14 @@ wizard_tower/
 
 ---
 
+## 💖 Supporta il progetto
+
+Ti piace questo tool? Offrimi un caffè ☕:
+
+[![PayPal](https://img.shields.io/badge/Supporta%20su-PayPal-blue?logo=paypal)](https://paypal.me/PrimeBuildOfficial?country.x=IT&locale.x=it_IT)
+
+---
+
 ## **Ringraziamenti Speciali**
 - ClaudeAI Free Plan e OpenAI DALL-E Free Plan
 
